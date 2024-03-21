@@ -1,0 +1,81 @@
+---
+title: "Actividad Guiada 1"
+author: "Lola Gómez Jemes"
+date: "2024-03-21"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+## Gráfico 1
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQCWJEWOlF_b5iuhxmFGhMZd4FVp3nN0WQTswlyRQxfmas69StICI71sUPj8rJNionj8tAoF57I_oNr/pubchart?oid=1554813&amp;format=interactive", height = 405)
+
+
+```
+
+
+## Gráfico 2
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQCWJEWOlF_b5iuhxmFGhMZd4FVp3nN0WQTswlyRQxfmas69StICI71sUPj8rJNionj8tAoF57I_oNr/pubchart?oid=1401827888&amp;format=interactive", height = 405)
+
+
+```
+
+## Gráfico 3
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQCWJEWOlF_b5iuhxmFGhMZd4FVp3nN0WQTswlyRQxfmas69StICI71sUPj8rJNionj8tAoF57I_oNr/pubchart?oid=1025518646&format=interactive", height = 405)
+
+
+```
+
+## Gráfico 4
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQCWJEWOlF_b5iuhxmFGhMZd4FVp3nN0WQTswlyRQxfmas69StICI71sUPj8rJNionj8tAoF57I_oNr/pubchart?oid=1646569755&amp;format=interactive", height = 405)
+
+
+```
+
+## ¿Qué gráfico es más adecuado?
+
+El **primer gráfico** representa un gráfico de sectores. En este caso, nos sirve para ver cuál es el país con mayor proporción de emisión de CO2, pero no nos sirve para ver los países con menor emisión. Es difícil compararlos. Es el peor gráfico de los cuatro.
+El **gráfico dos** es un gráfico de barras vertical que se encuentra desordenado. Esto nos impide comparar fácilmente las diferencias entre los países. 
+El **gráfico tres** tambiéne es de barras verticales pero esta vez ordenado. Además, se incluye el valor de cada barra. Este gráfico es mejor que los dos anteriores, pero sigue sin ser el más adecuado. Si nos fijamos, en el eje X se representa los países. Al ser barras verticales, no hay espacio suficiente para las etiquetas (nombre de los países) y han sido representadas con inclinación. Esto dificultad la lectura de los valores y podría ser un problema con nombres de países muy largos (la información podría aparecer incompleta). Por eso, el **gráfico cuatro** es el más adecuado. Representa las emisiones de CO2 con un diagrama de barras horizontal ordenado y con el valor de cada columna indicado. Así, podemos ver fácilmente a qué país corresponde cada columna y sus emisiones de CO2.
+
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQCWJEWOlF_b5iuhxmFGhMZd4FVp3nN0WQTswlyRQxfmas69StICI71sUPj8rJNionj8tAoF57I_oNr/pubchart?oid=1646569755&amp;format=interactive", height = 405)
+
+
+```
+
+## Gráfico 5
+
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQCWJEWOlF_b5iuhxmFGhMZd4FVp3nN0WQTswlyRQxfmas69StICI71sUPj8rJNionj8tAoF57I_oNr/pubchart?oid=1707476491&amp;format=interactive", height = 405)
+
+
+```
+
+
+## Gráfico 6
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://datawrapper.dwcdn.net/V5rh7/1/", height = 405)
+
+
+```
+
+# Gráfico 7
+```{r, echo=FALSE, out.extra='style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"'}
+
+knitr::include_url("https://datawrapper.dwcdn.net/ZLLpb/3/", height = 405)
+
+
+```
